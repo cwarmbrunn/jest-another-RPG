@@ -1,6 +1,6 @@
 **Project Title:**
 
-Jest Another RPGgit add .
+Jest Another RPG
 
 
 ---
